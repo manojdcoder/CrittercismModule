@@ -1,0 +1,2 @@
+"/Users/manojkumar/Downloads/EnoFile/CrittercismModule/android/build/generated/java/crittercism/CrittercismModuleBootstrap.java"
+"/Users/manojkumar/Downloads/EnoFile/CrittercismModule/android/src/crittercism/CrittercismModuleModule.java"

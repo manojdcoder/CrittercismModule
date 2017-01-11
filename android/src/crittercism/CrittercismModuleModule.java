@@ -11,7 +11,6 @@ package crittercism;
 import android.app.Activity;
 
 import org.json.JSONObject;
-import org.json.JSONException;
 
 import org.appcelerator.kroll.KrollDict;
 import org.appcelerator.kroll.KrollModule;
@@ -26,7 +25,6 @@ import com.crittercism.app.CritterCallback;
 import com.crittercism.app.CritterUserData;
 import com.crittercism.app.CritterUserDataRequest;
 import com.crittercism.app.CrittercismConfig;
-
 
 @Kroll.module(name="CrittercismModule", id="crittercism")
 public class CrittercismModuleModule extends KrollModule
